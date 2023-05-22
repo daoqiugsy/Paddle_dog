@@ -1,6 +1,6 @@
 # Paddle_dog
 百度飞桨小汪打榜赛总结
-**打榜赛第四，全校第一**
+**打榜赛第六，全校第一**
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/12da16876ccb4f76a6ad9986227e0636~tplv-k3u1fbpfcp-watermark.image?)
 
